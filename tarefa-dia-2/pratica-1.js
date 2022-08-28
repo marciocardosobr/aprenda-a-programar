@@ -15,3 +15,9 @@ console.log(email)
 console.log(profissão)
 console.log(idade)
 console.log(lugarQueSonhaConhecer)
+
+console.log(`Òlá ${nome}! Somos aqui da agência de turismo Viagem dos Sonhos. 
+Estamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para ${lugarQueSonhaConhecer}. 
+Confirma pra gente alguns dados? A sua idade é ${idade}, você é ${profissão} e o seu meial é ${email}? Ficamos no aguardo.
+Muito obrigado e boa viagem! :D `) 
+
